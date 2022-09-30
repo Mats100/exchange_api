@@ -1,6 +1,8 @@
 # exchange_api
 Using Exchange Rate API getting  different  currency rate list
 Output is Like this:
+
+
 United States Dollar = 1
 United Arab Emirates Dirham = 3.6725
 British Pound Sterling = 0.9061
